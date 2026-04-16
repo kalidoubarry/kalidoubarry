@@ -1,4 +1,4 @@
-- 👋 Hi, I’m kalidoubarry
+- 👋 Hi, I’m Professeur barry
 - 👀 I’m interested in programmation 
 - 🌱 I’m currently learning a lot of machine learning algorithms
 - 💞️ I’m looking to collaborate on the github community
